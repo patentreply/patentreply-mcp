@@ -1,0 +1,103 @@
+{
+  "skill_id": "oa-response",
+  "semantic_version": "1.1.14",
+  "workflow_contract": "oa-response/1",
+  "resources": [
+    {
+      "path": "references/amendments.md",
+      "uri": "skill://patentreply/oa-response/references/amendments.md",
+      "digest": "sha256:565c23e2e98de70504a1826e1d52a5ccf3886eafc27f24c6f6a0134c5d76c3c2",
+      "size": 1185
+    },
+    {
+      "path": "references/approval.md",
+      "uri": "skill://patentreply/oa-response/references/approval.md",
+      "digest": "sha256:2c73b4748dbcca1470308aeefcafaae28b9d39d131301e7e0784b1aee089441c",
+      "size": 1199
+    },
+    {
+      "path": "references/assembly.md",
+      "uri": "skill://patentreply/oa-response/references/assembly.md",
+      "digest": "sha256:b90de32256b0204ef78948227dca62936bc8666af66ae098a7b8a9c49ea67847",
+      "size": 1442
+    },
+    {
+      "path": "references/claim-amendment-rules.md",
+      "uri": "skill://patentreply/oa-response/references/claim-amendment-rules.md",
+      "digest": "sha256:b9182917611c49516527598601ef95a6434adfeab9d0af222c24a6d9759a75c5",
+      "size": 547
+    },
+    {
+      "path": "references/errors.md",
+      "uri": "skill://patentreply/oa-response/references/errors.md",
+      "digest": "sha256:c396cdb3e7d67c2ff90625e7a6d0707b866d77ebc8aeb0a656fc69c0cb2bbf25",
+      "size": 2339
+    },
+    {
+      "path": "references/evidence-rules.md",
+      "uri": "skill://patentreply/oa-response/references/evidence-rules.md",
+      "digest": "sha256:6cc826060345a0d1fd120a5c215368c19cab445f7a43e621d48191d32a60ba6f",
+      "size": 1081
+    },
+    {
+      "path": "references/evidence.md",
+      "uri": "skill://patentreply/oa-response/references/evidence.md",
+      "digest": "sha256:ec677d5d27631db92f0d356fb14cdcfd4a3b02994e6cd1dfd33643b7c2368563",
+      "size": 744
+    },
+    {
+      "path": "references/orient.md",
+      "uri": "skill://patentreply/oa-response/references/orient.md",
+      "digest": "sha256:0544e01d852033b3e387f7463c0c54f09bc0bc07067e3ff5a07bd538a798d69f",
+      "size": 2187
+    },
+    {
+      "path": "references/qc.md",
+      "uri": "skill://patentreply/oa-response/references/qc.md",
+      "digest": "sha256:9602f104ea0b3866640cdd02ff4f1b1eb2db61439911913e986708538474b196",
+      "size": 4804
+    },
+    {
+      "path": "references/remarks.md",
+      "uri": "skill://patentreply/oa-response/references/remarks.md",
+      "digest": "sha256:c372032b49386415691151234d9fe943bffc270c542172bd8022192741d2ea29",
+      "size": 712
+    },
+    {
+      "path": "references/review.md",
+      "uri": "skill://patentreply/oa-response/references/review.md",
+      "digest": "sha256:3a5e020bc7e1012417e034181c5c0ec295f298302b20d41ad3536cfd5697312b",
+      "size": 2610
+    },
+    {
+      "path": "references/revision.md",
+      "uri": "skill://patentreply/oa-response/references/revision.md",
+      "digest": "sha256:1f92df92ce6ed7281d19ec9ee2bf598c473195d341bd3f5333f67d9776616d2d",
+      "size": 2732
+    },
+    {
+      "path": "references/stale-state-recovery.md",
+      "uri": "skill://patentreply/oa-response/references/stale-state-recovery.md",
+      "digest": "sha256:e5bcf73c804a09c2c1c7a6fdf6b36b3195d1e7c5557f17f3f0f2b2e7fd580cd3",
+      "size": 490
+    },
+    {
+      "path": "references/strategy.md",
+      "uri": "skill://patentreply/oa-response/references/strategy.md",
+      "digest": "sha256:fee9693407b5ee2244dcbe58c595604291f3e0566b014aa6e2d82aff26fc02de",
+      "size": 1300
+    },
+    {
+      "path": "SKILL.md",
+      "uri": "skill://patentreply/oa-response/SKILL.md",
+      "digest": "sha256:dcdcf083974f361a07dda218b376d386bf616cdb153b887e6dd076f6259c9579",
+      "size": 10353
+    }
+  ],
+  "bundled_shared": [
+    "evidence-rules.md",
+    "claim-amendment-rules.md",
+    "stale-state-recovery.md"
+  ],
+  "manifest_digest": "sha256:52dcd9a17cf70dcea039e5649773794c4ff127b7eda5537b377e0aa33432a59e"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "patentreply",
+  "version": "0.3.5",
+  "description": "AI-assisted patent prosecution: compile USPTO file wrappers into Live Wrappers, analyze office actions, and draft compliant responses with verified citations.",
+  "author": {
+    "name": "PatentReply.ai",
+    "url": "https://patentreply.ai"
+  },
+  "homepage": "https://www.patentreply.ai/documentation/connect",
+  "license": "Proprietary",
+  "keywords": [
+    "patent",
+    "prosecution",
+    "uspto",
+    "office-action",
+    "mpep",
+    "legal"
+  ]
+}
