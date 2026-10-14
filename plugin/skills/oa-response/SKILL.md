@@ -11,7 +11,7 @@ license: Proprietary - PatentReply
 compatibility: Requires access to a PatentReply MCP server.
 metadata:
   author: PatentReply
-  version: "1.1.14"
+  version: "1.1.15"
   workflow-contract: "oa-response/1"
 ---
 
@@ -172,6 +172,8 @@ Load the matching reference; do not dump every file.
 - `assemble` → [references/assembly.md](references/assembly.md)
 - attorney revisits a confirmed/approved plan → [references/revision.md](references/revision.md)
 - attorney has a response draft to check before filing (any source) → [references/qc.md](references/qc.md)
+- attorney asks for an examiner, red-team or stress-test review of a QC'd draft
+  → [references/red-team.md](references/red-team.md) (opt-in; never launched by "QC this")
 
 Recovery: [references/errors.md](references/errors.md)
 

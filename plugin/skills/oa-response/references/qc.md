@@ -89,6 +89,12 @@ The report states the matter state it was measured against
 (`basis.measured_at`). If `action=get` reports staleness, say the record
 moved and offer to re-run; never present a stale report as current.
 
+## After the report
+
+QC never launches the examiner red team. When the report is rendered you may
+offer it once as a next step ("stress-test this as the examiner?"); run it
+only if the attorney asks or accepts — [red-team.md](red-team.md).
+
 ## Never
 
 - Rewrite the draft. Offer "fix items n, m" only if the attorney asks.

@@ -1,6 +1,6 @@
 {
   "skill_id": "oa-response",
-  "semantic_version": "1.1.14",
+  "semantic_version": "1.1.15",
   "workflow_contract": "oa-response/1",
   "resources": [
     {
@@ -54,8 +54,14 @@
     {
       "path": "references/qc.md",
       "uri": "skill://patentreply/oa-response/references/qc.md",
-      "digest": "sha256:9602f104ea0b3866640cdd02ff4f1b1eb2db61439911913e986708538474b196",
-      "size": 4804
+      "digest": "sha256:b143089acd27841134fad494abb2e4f096a5ac6bbcfb7656caf389e6aa1c8032",
+      "size": 5047
+    },
+    {
+      "path": "references/red-team.md",
+      "uri": "skill://patentreply/oa-response/references/red-team.md",
+      "digest": "sha256:c7109b9c341097fb043ac6e051488b121111388877fdc42d71c0fe5df746df43",
+      "size": 8860
     },
     {
       "path": "references/remarks.md",
@@ -90,8 +96,8 @@
     {
       "path": "SKILL.md",
       "uri": "skill://patentreply/oa-response/SKILL.md",
-      "digest": "sha256:dcdcf083974f361a07dda218b376d386bf616cdb153b887e6dd076f6259c9579",
-      "size": 10353
+      "digest": "sha256:d179f562798e2c7ed31c419e02efbe55f101a56b8b2317a82092b77023d08058",
+      "size": 10526
     }
   ],
   "bundled_shared": [
@@ -99,5 +105,5 @@
     "claim-amendment-rules.md",
     "stale-state-recovery.md"
   ],
-  "manifest_digest": "sha256:52dcd9a17cf70dcea039e5649773794c4ff127b7eda5537b377e0aa33432a59e"
+  "manifest_digest": "sha256:8d3e900410764d45396c86943aefd64ae644aa10cc06868dcad25b38806700e8"
 }
