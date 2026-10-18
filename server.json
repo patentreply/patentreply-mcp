@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "ai.patentreply/patentreply",
   "title": "PatentReply",
-  "description": "USPTO prosecution record for your AI: compile an application's file wrapper, review office actions against the cited evidence and the MPEP, plan and draft the response with attorney approval at every gate.",
+  "description": "The USPTO prosecution record for your AI. Connect once and work any U.S. patent application.",
   "version": "1.9.0",
   "websiteUrl": "https://www.patentreply.ai",
   "repository": {
