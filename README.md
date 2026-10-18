@@ -14,6 +14,8 @@ This repository is the public **connector card** for the hosted PatentReply
 service: install snippets, registry metadata, and the Claude plugin. The
 service itself is hosted by Patent Agentic LLC and is not open source.
 
+[![M8ven Score](https://m8ven.ai/badge/mcp/patentreply-patentreply-mcp-1i5ym9?v=bec58b3430abbe68829cecd16c186bf6)](https://m8ven.ai/mcp/patentreply-patentreply-mcp-1i5ym9?s=readme)
+
 ## What it does
 
 Give it a U.S. application, patent, or publication number. PatentReply
