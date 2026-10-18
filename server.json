@@ -3,7 +3,7 @@
   "name": "ai.patentreply/patentreply",
   "title": "PatentReply",
   "description": "USPTO prosecution record for your AI: compile an application's file wrapper, review office actions against the cited evidence and the MPEP, plan and draft the response with attorney approval at every gate.",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "websiteUrl": "https://www.patentreply.ai",
   "repository": {
     "url": "https://github.com/patentreply/patentreply-mcp",
