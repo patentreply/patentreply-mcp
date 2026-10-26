@@ -1,0 +1,14 @@
+{
+  "name": "patentreply",
+  "description": "Patent prosecution workflows and a hosted USPTO file-wrapper connection for Claude Code.",
+  "owner": {
+    "name": "Patent Agentic LLC"
+  },
+  "plugins": [
+    {
+      "name": "patentreply",
+      "source": "./plugin",
+      "description": "USPTO patent prosecution in Claude: organized file wrappers, Office Action review, examiner interview preparation, and attorney-approved response drafting."
+    }
+  ]
+}
